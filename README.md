@@ -15,13 +15,13 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/SoroushGhodrat/JSON-Data-Generator.git
+   git clone https://github.com/SoroushGhodrat/data-generator.git
    ```
 
 2. Navigate into the cloned repository:
 
    ```sh
-   cd JSON-Data-Generator
+   cd data-generator
    ```
 
 3. Install the dependencies:
