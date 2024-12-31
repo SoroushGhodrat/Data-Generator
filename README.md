@@ -1,10 +1,10 @@
 # JSON Data Generator
 
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.1-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
-![Vite](https://img.shields.io/badge/Vite-4.4.5-purple)
+![Node](https://img.shields.io/badge/Node-14.17.0-green)
 
 This is a React application built with TypeScript and Vite. It generates a JSON file with fake data, with a maximum of 200 entries.
 

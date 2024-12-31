@@ -71,7 +71,7 @@ const DataList = () => {
   ];
 
   const [selectedTheme, setSelectedTheme] = useState<ThemeKeys | ThemeObject>(
-    'chalk',
+    'chalk'
   );
 
   const handleCopy = async () => {

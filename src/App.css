@@ -10,8 +10,8 @@
 body {
   margin: 0;
   display: flex;
-  background: #1B3258;
-  color: #FFDAB9;
+  background: #1b3258;
+  color: #ffdab9;
   font-family: inherit;
 }
 
@@ -88,7 +88,7 @@ h4 {
   font-weight: 500;
   font-size: 1em;
   font-family: inherit;
-  color: #FFDAB9;
+  color: #ffdab9;
   text-decoration: inherit;
   border: none;
   background: none;
@@ -96,7 +96,7 @@ h4 {
 
 .action-buttons a {
   font-weight: 500;
-  color: #FFDAB9;
+  color: #ffdab9;
   text-decoration: inherit;
 }
 
@@ -192,7 +192,6 @@ h4 {
 }
 
 @media screen and (min-width: 480px) {
-
   .generate input,
   .generate button {
     width: 70%;
